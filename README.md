@@ -1,2 +1,2 @@
 # basics
-Basic algorithms in various languages
+Basic algorithms and data structures in various languages
